@@ -5,7 +5,7 @@ Base = declarative_base()
 
 
 class QualityOfLife(Base):
-    __tablename__ = "qol"
+    __tablename__ = "indexes"
 
     city = Column(VARCHAR(30), primary_key=True)
     state = Column(CHAR(2), primary_key=True)
