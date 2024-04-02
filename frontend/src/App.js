@@ -1,7 +1,6 @@
 import { Map } from './Map';
 import Grid from '@mui/material/Unstable_Grid2';
 import { Typography } from '@mui/material';
-import './App.css'
 
 const style = {
   backgroundColor: 'black',
