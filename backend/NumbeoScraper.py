@@ -97,8 +97,8 @@ def write_to_csv(filtered_data):
 
 def main():
 
-    start = 351
-    num_lines = 400
+    start = 1
+    num_lines = 50
 
     for line in range(start, num_lines + 1):
         data = save_data(line)

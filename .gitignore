@@ -26,3 +26,5 @@ yarn-debug.log*
 yarn-error.log*
 backend/database/__pycache__/models.cpython-39.pyc
 backend/scraped_data.numbers
+frontend/src/tx.json
+backend/cities.txt
