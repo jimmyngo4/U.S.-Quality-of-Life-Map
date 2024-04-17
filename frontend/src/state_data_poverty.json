@@ -1,0 +1,7702 @@
+{
+   "Alabama": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 821
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 959
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 851
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 775
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 770
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 779
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 786
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 729
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 725
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 704
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 882
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 595
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 665
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 609
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 668
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 583
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 696
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 640
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 663
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 762
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 750
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 650
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 662
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 675
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 770
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 812
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 732
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 777
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 891
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 848
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 784
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 782
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 723
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 779
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 627
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 744
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 787
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 681
+      }
+   ],
+   "Alaska": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 45
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 59
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 51
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 57
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 62
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 52
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 45
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 54
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 48
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 47
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 54
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 62
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 59
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 66
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 51
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 81
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 87
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 83
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 70
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 67
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 65
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 89
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 103
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 94
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 72
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 95
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 81
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 68
+      }
+   ],
+   "Arizona": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 345
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 484
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 444
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 491
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 502
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 484
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 532
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 607
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 615
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 673
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 700
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 980
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 797
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 812
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 616
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 607
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 778
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 735
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 749
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 830
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 917
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 902
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 912
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1172
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1381
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1208
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1128
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1260
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1163
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1409
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1156
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1108
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 926
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 929
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 725
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 783
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 922
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 920
+      }
+   ],
+   "Arkansas": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 541
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 499
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 537
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 527
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 442
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 472
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 425
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 430
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 484
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 369
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 376
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 449
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 515
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 377
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 384
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 436
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 472
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 532
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 474
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 412
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 382
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 487
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 387
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 431
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 538
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 440
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 545
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 584
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 395
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 532
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 475
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 471
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 432
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 462
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 412
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 420
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 502
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 496
+      }
+   ],
+   "California": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 3596
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 3453
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 3443
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 3687
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 3772
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 4128
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 4825
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 5197
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 5803
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 5658
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 5342
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 5472
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 5459
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 5118
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 4733
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 4294
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 4321
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 4605
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 4634
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 4724
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 4716
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 4427
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 4589
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 5344
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 5638
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 6073
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 6352
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 6015
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 5754
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 6112
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 5441
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 5435
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 4872
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 4664
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 3980
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 4332
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 4615
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 4346
+      }
+   ],
+   "Colorado": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 324
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 426
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 398
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 405
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 393
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 461
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 347
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 376
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 354
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 335
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 335
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 412
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 320
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 363
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 366
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 425
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 383
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 436
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 436
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 450
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 530
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 466
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 478
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 541
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 613
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 615
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 661
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 613
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 569
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 661
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 538
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 467
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 427
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 521
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 535
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 546
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 455
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 465
+      }
+   ],
+   "Connecticut": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 237
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 186
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 207
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 128
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 90
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 196
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 287
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 321
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 277
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 344
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 318
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 392
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 282
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 310
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 246
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 258
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 249
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 279
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 278
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 352
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 326
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 275
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 309
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 276
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 292
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 303
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 356
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 363
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 396
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 308
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 324
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 351
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 388
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 348
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 291
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 396
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 285
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 368
+      }
+   ],
+   "Delaware": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 79
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 42
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 57
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 68
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 48
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 57
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 63
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 72
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 80
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 80
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 65
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 78
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 80
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 80
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 123
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 103
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 110
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 89
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 72
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 63
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 104
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 117
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 97
+      }
+   ],
+   "Florida": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 1551
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 1342
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 1523
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 1704
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 1590
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 1896
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 2069
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 2139
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 2507
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 2128
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 2321
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 2037
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 2056
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1923
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 1937
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 1754
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 2077
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 2058
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 2148
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 2028
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1975
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 2068
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 2250
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 2370
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 2676
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 3006
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 2822
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 2926
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 2882
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 3282
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 3253
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 2659
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 2864
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 2883
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 2455
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 2854
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 2721
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 2988
+      }
+   ],
+   "Georgia": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 1037
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 879
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 883
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 875
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 929
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 1001
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 1077
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1177
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 919
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 1012
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 878
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 1097
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 1109
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1034
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 1011
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 982
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 1069
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 939
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 1014
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 1132
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1298
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 1172
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 1294
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1477
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1775
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1814
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1783
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1752
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1825
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1676
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1833
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1580
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 1356
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 1548
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 1249
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 1399
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 1490
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 1280
+      }
+   ],
+   "Hawaii": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 95
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 117
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 122
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 90
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 133
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 91
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 97
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 122
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 142
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 164
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 131
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 133
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 138
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 138
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 117
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 110
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 116
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 94
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 125
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 156
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 162
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 162
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 188
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 142
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 147
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 151
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 129
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 144
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 128
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 115
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 155
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 156
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 126
+      }
+   ],
+   "Idaho": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 159
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 180
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 150
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 124
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 126
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 157
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 144
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 166
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 150
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 137
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 167
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 140
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 183
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 165
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 175
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 162
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 151
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 147
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 138
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 136
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 143
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 141
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 149
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 185
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 209
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 213
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 248
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 229
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 200
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 199
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 204
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 187
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 202
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 202
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 127
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 170
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 177
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 159
+      }
+   ],
+   "Illinois": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 1830
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 1517
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 1655
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 1436
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 1470
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 1606
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 1598
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1857
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 1600
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 1464
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 1459
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 1429
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 1349
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1234
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 1215
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 1307
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 1249
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 1594
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 1592
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 1546
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1441
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 1338
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 1262
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1564
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1690
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1798
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1807
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1608
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1720
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1756
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1380
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1517
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 1379
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 1292
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 1160
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 1010
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 1339
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 1173
+      }
+   ],
+   "Indiana": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 639
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 674
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 597
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 560
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 749
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 714
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 866
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 661
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 704
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 816
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 545
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 428
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 515
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 547
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 396
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 513
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 511
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 552
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 610
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 712
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 774
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 674
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 740
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 901
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1023
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1041
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 989
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 964
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1083
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 948
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 880
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 768
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 748
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 761
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 677
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 807
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 704
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 704
+      }
+   ],
+   "Iowa": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 505
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 376
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 419
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 263
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 291
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 289
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 271
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 328
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 290
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 302
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 352
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 279
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 270
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 257
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 210
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 237
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 212
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 267
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 260
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 316
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 327
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 301
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 264
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 285
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 319
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 307
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 315
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 310
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 405
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 317
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 321
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 302
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 278
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 277
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 298
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 290
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 309
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 299
+      }
+   ],
+   "Kansas": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 331
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 269
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 225
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 195
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 262
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 259
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 317
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 279
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 327
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 375
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 273
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 287
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 250
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 250
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 320
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 213
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 267
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 269
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 288
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 304
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 337
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 349
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 319
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 346
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 374
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 400
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 402
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 397
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 315
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 345
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 404
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 321
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 421
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 212
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 266
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 267
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 206
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 298
+      }
+   ],
+   "Kentucky": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 708
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 630
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 634
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 634
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 576
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 628
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 683
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 731
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 763
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 710
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 572
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 658
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 623
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 521
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 467
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 502
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 503
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 571
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 589
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 723
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 599
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 690
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 653
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 724
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 727
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 754
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 689
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 776
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 991
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 861
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 851
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 667
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 633
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 696
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 599
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 621
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 725
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 763
+      }
+   ],
+   "Louisiana": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 781
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 953
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 1071
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 968
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 950
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 952
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 795
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1043
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 1119
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 1117
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 849
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 873
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 691
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 821
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 823
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 750
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 709
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 777
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 750
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 744
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 748
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 713
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 673
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 788
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 636
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 949
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 947
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 944
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 963
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1049
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 854
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 923
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 970
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 858
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 816
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 704
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 830
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 761
+      }
+   ],
+   "Maine": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 115
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 159
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 128
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 162
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 171
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 167
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 196
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 113
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 138
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 135
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 124
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 131
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 128
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 132
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 170
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 149
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 149
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 166
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 142
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 158
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 148
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 164
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 178
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 170
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 151
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 190
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 165
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 167
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 158
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 153
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 140
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 123
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 133
+      }
+   ],
+   "Maryland": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 364
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 414
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 420
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 457
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 411
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 468
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 432
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 583
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 479
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 541
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 520
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 522
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 422
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 359
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 367
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 386
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 385
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 400
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 472
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 550
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 542
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 469
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 491
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 481
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 543
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 628
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 537
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 585
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 623
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 584
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 566
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 424
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 467
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 480
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 424
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 569
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 469
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 535
+      }
+   ],
+   "Massachusetts": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 544
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 538
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 477
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 497
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 513
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 626
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 637
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 600
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 641
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 585
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 665
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 622
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 732
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 528
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 738
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 618
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 561
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 648
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 652
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 594
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 641
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 758
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 707
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 727
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 717
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 711
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 688
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 743
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 818
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 902
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 782
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 649
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 724
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 601
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 521
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 586
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 522
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 658
+      }
+   ],
+   "Michigan": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 1308
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 1267
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 1095
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 1112
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 1228
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 1315
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 1308
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1271
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 1475
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 1347
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 1174
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 1068
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 1006
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1097
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 978
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 967
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 927
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 1152
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 1125
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 1318
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1196
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 1323
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 1076
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1273
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1376
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1530
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1449
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1331
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1277
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1462
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1259
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1091
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 1259
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 1036
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 1007
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 1112
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 1147
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 1206
+      }
+   ],
+   "Minnesota": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 523
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 517
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 484
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 514
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 478
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 524
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 564
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 561
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 506
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 523
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 427
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 458
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 457
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 498
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 354
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 276
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 361
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 325
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 376
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 356
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 412
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 422
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 482
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 506
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 576
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 563
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 528
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 534
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 589
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 447
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 428
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 470
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 519
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 456
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 322
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 476
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 382
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 427
+      }
+   ],
+   "Mississippi": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 644
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 695
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 637
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 704
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 566
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 684
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 635
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 671
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 639
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 515
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 630
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 575
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 455
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 486
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 446
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 418
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 539
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 513
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 456
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 536
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 571
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 596
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 655
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 525
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 658
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 658
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 510
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 636
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 554
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 654
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 563
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 622
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 538
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 567
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 560
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 516
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 506
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 531
+      }
+   ],
+   "Missouri": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 689
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 722
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 716
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 662
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 654
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 700
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 740
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 795
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 832
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 797
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 484
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 500
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 627
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 531
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 647
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 505
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 537
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 551
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 602
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 686
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 659
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 659
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 742
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 780
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 926
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 890
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 910
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 905
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1041
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 620
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 582
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 762
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 666
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 745
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 568
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 647
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 742
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 693
+      }
+   ],
+   "Montana": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 136
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 144
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 116
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 127
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 127
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 118
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 127
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 97
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 133
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 155
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 139
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 153
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 141
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 126
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 122
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 139
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 129
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 128
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 125
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 122
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 125
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 131
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 142
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 163
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 103
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 101
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 107
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 118
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 120
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 117
+      }
+   ],
+   "Nebraska": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 235
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 220
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 191
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 164
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 204
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 167
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 157
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 169
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 169
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 146
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 159
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 169
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 163
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 211
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 184
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 145
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 158
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 181
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 168
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 163
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 167
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 180
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 174
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 188
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 176
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 184
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 187
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 226
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 196
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 221
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 192
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 179
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 194
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 199
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 165
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 162
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 159
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 154
+      }
+   ],
+   "Nevada": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 139
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 107
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 93
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 141
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 199
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 141
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 168
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 173
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 133
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 190
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 195
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 229
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 180
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 152
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 188
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 244
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 260
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 260
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 241
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 250
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 278
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 343
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 446
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 414
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 433
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 401
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 478
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 371
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 298
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 409
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 390
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 323
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 404
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 397
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 380
+      }
+   ],
+   "New Hampshire": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 59
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 37
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 51
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 84
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 68
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 81
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 97
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 112
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 87
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 96
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 81
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 76
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 91
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 103
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 84
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 99
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 95
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 94
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 84
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 88
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 49
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 87
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 96
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 115
+      }
+   ],
+   "New Jersey": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 631
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 679
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 626
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 475
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 622
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 711
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 754
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 803
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 866
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 730
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 617
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 726
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 737
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 693
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 646
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 612
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 683
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 681
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 741
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 693
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 592
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 762
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 742
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 787
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 806
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 966
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 988
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 814
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 861
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1013
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1004
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 828
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 774
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 725
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 554
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 744
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 698
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 799
+      }
+   ],
+   "New Mexico": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 267
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 306
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 280
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 343
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 297
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 319
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 349
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 348
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 282
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 356
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 457
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 472
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 387
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 371
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 383
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 312
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 323
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 328
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 338
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 314
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 347
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 328
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 271
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 381
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 381
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 372
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 451
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 420
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 535
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 406
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 400
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 364
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 380
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 342
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 315
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 343
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 377
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 427
+      }
+   ],
+   "New York": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 2796
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 2322
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 2506
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 2369
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 2254
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 2571
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 2736
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 2820
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 2981
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 3097
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 3020
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 3058
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 2979
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 3068
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 2676
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 2604
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 2664
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 2690
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 2707
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 2847
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 2760
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 2668
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 2757
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 2734
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 3018
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 3062
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 3085
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 3328
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 3337
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 2755
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 2791
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 2314
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 2641
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 2145
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 2382
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 2313
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 2428
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 2480
+      }
+   ],
+   "North Carolina": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 863
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 884
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 853
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 796
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 770
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 829
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 964
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1080
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 966
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 980
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 877
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 885
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 839
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1039
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 1069
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 1000
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 1013
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 1165
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 1289
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 1229
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1115
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 1225
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 1423
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1285
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1576
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1633
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1459
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1652
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1419
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1678
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1509
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1363
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 1494
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 1355
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 1324
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 1441
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 1249
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 1525
+      }
+   ],
+   "North Dakota": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 108
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 88
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 75
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 76
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 79
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 87
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 92
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 70
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 65
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 76
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 69
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 87
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 97
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 81
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 65
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 86
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 70
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 70
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 57
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 69
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 67
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 79
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 94
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 83
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 84
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 72
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 81
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 65
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 74
+      }
+   ],
+   "Ohio": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 1359
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 1372
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 1375
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 1356
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 1143
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 1256
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 1488
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1398
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 1461
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 1571
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 1285
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 1424
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 1231
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1253
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 1343
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 1117
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 1174
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 1099
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 1226
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 1304
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1392
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 1371
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 1446
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1557
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1526
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1746
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1708
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1751
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1684
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1792
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1550
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1573
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 1458
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 1365
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 1424
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 1487
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 1364
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 1154
+      }
+   ],
+   "Oklahoma": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 526
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 469
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 547
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 543
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 460
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 481
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 541
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 607
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 662
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 540
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 548
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 556
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 456
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 458
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 424
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 503
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 508
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 489
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 440
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 373
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 543
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 531
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 476
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 484
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 468
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 603
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 522
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 668
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 785
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 647
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 551
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 571
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 482
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 518
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 422
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 604
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 589
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 665
+      }
+   ],
+   "Oregon": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 317
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 332
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 384
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 285
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 327
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 267
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 401
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 346
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 363
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 373
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 360
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 382
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 382
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 503
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 432
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 371
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 408
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 380
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 446
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 421
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 436
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 439
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 481
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 403
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 510
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 537
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 553
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 523
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 556
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 570
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 478
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 486
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 430
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 404
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 336
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 387
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 389
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 419
+      }
+   ],
+   "Pennsylvania": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 1217
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 1190
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 1249
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 1246
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 1261
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 1328
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 1340
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 1425
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 1598
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 1496
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 1464
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 1374
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 1337
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 1338
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 1117
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 1033
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 1158
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 1152
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 1279
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 1383
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 1372
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 1397
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 1273
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 1335
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1376
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1535
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1604
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1756
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 1432
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1581
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 1542
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 1396
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 1411
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 1476
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 1092
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 1352
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 1362
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 1383
+      }
+   ],
+   "Rhode Island": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 84
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 87
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 79
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 99
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 64
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 99
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 108
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 99
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 104
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 120
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 112
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 103
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 100
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 116
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 121
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 122
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 127
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 110
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 99
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 132
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 134
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 146
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 139
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 141
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 96
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 123
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 127
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 92
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 96
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 93
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 90
+      }
+   ],
+   "South Carolina": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 489
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 569
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 512
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 528
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 585
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 548
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 582
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 697
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 678
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 501
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 744
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 482
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 500
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 527
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 445
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 441
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 603
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 568
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 516
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 615
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 626
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 474
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 617
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 624
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 618
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 773
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 874
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 779
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 904
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 788
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 683
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 690
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 773
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 642
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 775
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 684
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 713
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 677
+      }
+   ],
+   "South Dakota": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 119
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 118
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 101
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 92
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 93
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 96
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 107
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 103
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 117
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 77
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 79
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 62
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 85
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 95
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 90
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 82
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 104
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 113
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 117
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 106
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 110
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 109
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 118
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 124
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 91
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 90
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 91
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 102
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 80
+      }
+   ],
+   "Tennessee": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 837
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 853
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 792
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 883
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 891
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 833
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 744
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 858
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 998
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 779
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 846
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 878
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 791
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 749
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 662
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 759
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 802
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 839
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 829
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 932
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 872
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 879
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 906
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 924
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 1031
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 1052
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 1030
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 1194
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 972
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 1122
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 973
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 988
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 769
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 800
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 879
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 912
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 740
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 736
+      }
+   ],
+   "Texas": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 2582
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 2825
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 2917
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 3006
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 2880
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 2684
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 2965
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 3282
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 3177
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 3603
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 3270
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 3180
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 3297
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 2994
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 3072
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 3204
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 3129
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 3362
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 3705
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 3669
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 3681
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 3816
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 3903
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 3834
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 4262
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 4633
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 4458
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 4444
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 4422
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 4364
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 4036
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 3812
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 3768
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 3894
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 0
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 4057
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 3977
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 4031
+      }
+   ],
+   "Utah": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 180
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 209
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 173
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 162
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 138
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 143
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 222
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 172
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 203
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 154
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 168
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 153
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 185
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 190
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 126
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 170
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 238
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 228
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 213
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 241
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 232
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 235
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 255
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 209
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 270
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 278
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 309
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 312
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 357
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 298
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 279
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 264
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 269
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 219
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 236
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 242
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 264
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 200
+      }
+   ],
+   "Vermont": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 48
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 50
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 43
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 44
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 59
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 45
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 74
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 54
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 59
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 52
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 48
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 47
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 48
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 67
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 71
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 69
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 43
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 57
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 65
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 63
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 47
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 58
+      }
+   ],
+   "Virginia": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 558
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 547
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 583
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 647
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 671
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 705
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 608
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 592
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 627
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 710
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 648
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 795
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 858
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 589
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 537
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 577
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 564
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 702
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 740
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 693
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 684
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 651
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 664
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 799
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 831
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 835
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 907
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 850
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 805
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 842
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 894
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 929
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 847
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 821
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 737
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 663
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 831
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 704
+      }
+   ],
+   "Washington": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 526
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 563
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 450
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 402
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 455
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 434
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 474
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 574
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 634
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 614
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 677
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 666
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 529
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 512
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 545
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 634
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 634
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 657
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 766
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 700
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 636
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 502
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 661
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 680
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 781
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 779
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 854
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 796
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 836
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 852
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 819
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 800
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 736
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 647
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 527
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 625
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 587
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 696
+      }
+   ],
+   "West Virginia": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 423
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 432
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 408
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 337
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 283
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 328
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 327
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 401
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 400
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 336
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 300
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 323
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 286
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 312
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 272
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 261
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 291
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 293
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 310
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 254
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 276
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 277
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 265
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 260
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 285
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 306
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 318
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 301
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 358
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 376
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 261
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 326
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 311
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 279
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 242
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 249
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 296
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 270
+      }
+   ],
+   "Wisconsin": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 544
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 501
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 428
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 364
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 393
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 448
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 492
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 560
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 636
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 453
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 449
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 460
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 422
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 449
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 466
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 493
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 423
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 467
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 528
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 676
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 553
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 555
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 601
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 544
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 599
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 567
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 743
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 640
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 756
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 628
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 654
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 620
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 551
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 499
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 479
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 466
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 551
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 386
+      }
+   ],
+   "Wyoming": [
+      {
+         "Year": 1985,
+         "Poverty in thousands": 61
+      },
+      {
+         "Year": 1986,
+         "Poverty in thousands": 73
+      },
+      {
+         "Year": 1987,
+         "Poverty in thousands": 49
+      },
+      {
+         "Year": 1988,
+         "Poverty in thousands": 43
+      },
+      {
+         "Year": 1989,
+         "Poverty in thousands": 50
+      },
+      {
+         "Year": 1990,
+         "Poverty in thousands": 51
+      },
+      {
+         "Year": 1991,
+         "Poverty in thousands": 47
+      },
+      {
+         "Year": 1992,
+         "Poverty in thousands": 49
+      },
+      {
+         "Year": 1993,
+         "Poverty in thousands": 64
+      },
+      {
+         "Year": 1994,
+         "Poverty in thousands": 45
+      },
+      {
+         "Year": 1995,
+         "Poverty in thousands": 59
+      },
+      {
+         "Year": 1996,
+         "Poverty in thousands": 58
+      },
+      {
+         "Year": 1997,
+         "Poverty in thousands": 66
+      },
+      {
+         "Year": 1998,
+         "Poverty in thousands": 51
+      },
+      {
+         "Year": 1999,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 2000,
+         "Poverty in thousands": 52
+      },
+      {
+         "Year": 2001,
+         "Poverty in thousands": 42
+      },
+      {
+         "Year": 2002,
+         "Poverty in thousands": 44
+      },
+      {
+         "Year": 2003,
+         "Poverty in thousands": 48
+      },
+      {
+         "Year": 2004,
+         "Poverty in thousands": 50
+      },
+      {
+         "Year": 2005,
+         "Poverty in thousands": 54
+      },
+      {
+         "Year": 2006,
+         "Poverty in thousands": 51
+      },
+      {
+         "Year": 2007,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 2008,
+         "Poverty in thousands": 54
+      },
+      {
+         "Year": 2009,
+         "Poverty in thousands": 50
+      },
+      {
+         "Year": 2010,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 2011,
+         "Poverty in thousands": 60
+      },
+      {
+         "Year": 2012,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 2013,
+         "Poverty in thousands": 68
+      },
+      {
+         "Year": 2014,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 2015,
+         "Poverty in thousands": 56
+      },
+      {
+         "Year": 2016,
+         "Poverty in thousands": 62
+      },
+      {
+         "Year": 2017,
+         "Poverty in thousands": 70
+      },
+      {
+         "Year": 2018,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 2019,
+         "Poverty in thousands": 52
+      },
+      {
+         "Year": 2020,
+         "Poverty in thousands": 55
+      },
+      {
+         "Year": 2021,
+         "Poverty in thousands": 53
+      },
+      {
+         "Year": 2022,
+         "Poverty in thousands": 40
+      }
+   ]
+}
