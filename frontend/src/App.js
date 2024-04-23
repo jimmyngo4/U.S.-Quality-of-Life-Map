@@ -3,7 +3,7 @@ import Grid from '@mui/material/Unstable_Grid2';
 import { Typography } from '@mui/material';
 
 const style = {
-  backgroundColor: 'black',
+  backgroundColor: 'white',
   minHeight: '100vh',
 };
 
@@ -13,7 +13,7 @@ function App() {
     <div style={style}>
       <Grid container>
         <Grid xs={12}>
-          <Typography variant='h3' align='center' color={'white'}>
+          <Typography variant='h3' align='center' color={'black'}>
             U.S. Quality of Life Map
           </Typography>
         </Grid>

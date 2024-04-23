@@ -1,0 +1,7702 @@
+{
+   "Alabama": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 457.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 558
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 559.2
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 558.6
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 590.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 708.6
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 844.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 871.7
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 780.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 683.7
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 632.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 565.4
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 564.5
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 512.1
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 490.2
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 486.2
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 438.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 445
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 429.2
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 427
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 432.6
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 425.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 448.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 452.8
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 450.1
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 383.7
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 419.8
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 450.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 431
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 427.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 473
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 532.4
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 522.4
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 523.1
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 504.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 453.6
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 348.3
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 409.1
+      }
+   ],
+   "Alaska": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 581.8
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 570.4
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 455.4
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 522.8
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 497.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 524.5
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 613.9
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 660.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 760.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 766.3
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 770.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 727.7
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 701.1
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 653.9
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 630.8
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 566.9
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 589.5
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 565.4
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 598
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 632.3
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 632.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 688
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 661.3
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 652.1
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 633.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 635.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 610.1
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 604.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 638.7
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 635.5
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 730.8
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 804.6
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 856.7
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 891.7
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 865
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 837.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 759.1
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 758.9
+      }
+   ],
+   "Arizona": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 602.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 658.3
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 612.6
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 610.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 599.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 652.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 670.7
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 670.8
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 715
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 703.1
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 713.5
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 631.5
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 623.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 577.9
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 551.1
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 531.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 540.3
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 554.5
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 513.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 504.4
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 512
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 542.6
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 518
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 485.6
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 426.5
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 413.6
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 414.2
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 428.6
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 415.6
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 392.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 410.2
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 471
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 505.7
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 475.7
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 447.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 484.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 425.6
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 431.5
+      }
+   ],
+   "Arkansas": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 347.6
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 394.8
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 412
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 422.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 473.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 532.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 593.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 576.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 593.3
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 595.1
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 553.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 524.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 526.9
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 490.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 425.2
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 445.3
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 452.4
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 425
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 456.4
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 502.3
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 528.5
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 552.8
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 537.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 513
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 515.8
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 503.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 482.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 469.6
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 463.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 480.2
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 529.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 554.3
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 566
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 561.6
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 580.8
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 671.9
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 702.4
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 645.3
+      }
+   ],
+   "California": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 765.3
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 920.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 918
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 929.8
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 977.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 1045.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 1089.9
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 1119.7
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 1077.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 1013
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 966
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 862.7
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 798.3
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 703.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 627.2
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 621.6
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 615.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 595.4
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 579.6
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 527.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 526
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 533.5
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 524.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 504.2
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 473.3
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 439.6
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 411.2
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 423.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 402.6
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 396.4
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 428
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 444.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 453.3
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 447.5
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 442.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 442
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 481.2
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 499.5
+      }
+   ],
+   "Colorado": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 471
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 523.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 467.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 472.6
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 471.4
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 526
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 559.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 578.8
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 567.3
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 509.6
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 440.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 404.5
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 363.2
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 377.9
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 340.5
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 334
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 349.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 352.9
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 346.5
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 372
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 396.7
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 395.4
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 351.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 353.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 338.8
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 323.7
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 314.4
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 307.4
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 305.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 307.8
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 318.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 344.1
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 372.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 401.5
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 384.6
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 423.1
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 480.4
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 492.5
+      }
+   ],
+   "Connecticut": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 402
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 425.8
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 419
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 455.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 511.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 553.7
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 539.7
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 495.3
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 456.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 455.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 405.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 412
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 390.9
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 366.3
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 345.6
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 324.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 334.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 312.5
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 316.8
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 289
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 272.6
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 299.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 301.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 306.7
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 300.9
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 282
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 275.7
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 283.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 262.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 238.5
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 221.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 227.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 229.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 209.6
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 184.6
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 181.6
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 168.6
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 150
+      }
+   ],
+   "Delaware": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 433.3
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 427
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 430.7
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 451.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 556.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 655.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 714.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 621.2
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 685.9
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 644.3
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 725
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 668.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 785.9
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 762.4
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 734.4
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 684.4
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 611.1
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 600
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 675.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 615
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 633.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 701
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 705.4
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 708.6
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 645.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 623.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 566.4
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 550.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 500.7
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 488.1
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 504.2
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 510
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 457.3
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 422.5
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 422.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": null
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": null
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": null
+      }
+   ],
+   "Florida": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 941.1
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 1036.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 1024.4
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 1117.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 1109.4
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 1244.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 1184.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 1207.2
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 1206
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 1146.8
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 1071
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 1051
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 1023.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 938.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 854
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 812
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 798.3
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 771.2
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 731.1
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 711.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 708.9
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 716.4
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 722.6
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 688.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 612.5
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 541.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 514.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 487
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 469.3
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 458.9
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 462.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 429.4
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 408.1
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 385.9
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 378.2
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 431.9
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 337.3
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 258.9
+      }
+   ],
+   "Georgia": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 507.2
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 587.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 576.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 665.3
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 735.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 756.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 738.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 733.2
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 723.1
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 667.7
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 657.1
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 638.7
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 606.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 572.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 533.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 504.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 495.7
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 459.6
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 454.5
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 451
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 445.9
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 477.9
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 491.5
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 488.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 428
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 402.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 374.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 380
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 375.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 385.8
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 381.3
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 390.4
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 356.5
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 338.9
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 326.2
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 400.1
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 349.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 367
+      }
+   ],
+   "Hawaii": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 219.4
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 245.2
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 263.3
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 257.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 270.1
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 280.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 241.8
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 258.4
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 261.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 262.2
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 295.6
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 280.6
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 277.9
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 246.9
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 234.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 243.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 254
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 262.9
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 272.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 254.6
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 255.5
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 280.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 276.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 272.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 274.1
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 264.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 251.4
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 243
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 254.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 236.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 293.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 241.6
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 251.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 255
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 264.5
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 254.2
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 274
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 259.6
+      }
+   ],
+   "Idaho": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 234.8
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 222.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 214.2
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 234.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 254.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 275.7
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 290.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 281.4
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 281.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 285.8
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 322
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 267.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 256.8
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 282.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 244.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 252.5
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 243.1
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 254.6
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 245.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 247.4
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 256.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 250
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 256.2
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 241.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 246.2
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 220.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 202.2
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 209.8
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 215.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 210.4
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 217.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 230.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 239.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 239.7
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 232.6
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 242.6
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 240.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 241.4
+      }
+   ],
+   "Illinois": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 714.8
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 810.3
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 796.2
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 810.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 845.9
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 967.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 1039.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 977.3
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 959.7
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 960.9
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 996.1
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 890.4
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 861.4
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 807.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 689.5
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 653.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 633.1
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 601.9
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 556.4
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 545.7
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 552.2
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 541.6
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 533.2
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 525.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 497.2
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 444.9
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 424
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 416.2
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 403.1
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 370.9
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 387.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 436.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 436.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 411.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 415.3
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 425.9
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 344.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 287.3
+      }
+   ],
+   "Indiana": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 309.4
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 307.7
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 328.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 380
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 406.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 473.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 505.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 508.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 489.1
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 525.1
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 524.7
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 537
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 514.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 431
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 374.6
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 349.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 371.1
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 357.3
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 352.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 325.9
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 324
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 321.6
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 335.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 337.6
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 334
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 323.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 331.8
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 344.8
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 359.6
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 365.3
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 383.7
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 399.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 395
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 373.5
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 371.5
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 357.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 332.6
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 306.2
+      }
+   ],
+   "Iowa": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 211.7
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 235.1
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 231.2
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 256.8
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 266.3
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 299.7
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 303.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 278
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 325.5
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 315.1
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 354.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 272.5
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 310
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 311.5
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 280
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 266.4
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 268.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 285.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 277.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 287.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 293.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 285.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 300.2
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 288.1
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 282.1
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 268.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 257.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 265.6
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 273
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 272.8
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 276.1
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 292.9
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 287.5
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 263.7
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 287.6
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 303.5
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 295
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 286.5
+      }
+   ],
+   "Kansas": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 355.8
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 368.8
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 360.7
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 365.2
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 400.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 447.7
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 499.6
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 510.8
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 496.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 443
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 420.7
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 413.8
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 429.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 417.3
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 382.8
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 389.4
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 403.7
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 377.2
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 397.5
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 377.9
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 389.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 432.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 458.6
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 412.3
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 406.6
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 370.8
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 355.7
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 356.7
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 342.8
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 352.6
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 395
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 401.2
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 400.4
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 441.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 405.5
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 425
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 444.9
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 414.6
+      }
+   ],
+   "Kentucky": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 305.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 334.4
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 337.8
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 330.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 356.9
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 390.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 438
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 535.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 462.7
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 444
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 364.7
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 320.5
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 316.9
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 328
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 308.3
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 294.5
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 258.3
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 271.4
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 248.5
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 245.1
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 266.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 270.1
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 290.7
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 297.2
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 255
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 243.9
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 239.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 224.9
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 210.9
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 215.2
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 223.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 235.6
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 231.1
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 217.9
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 220.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 259.1
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 269
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 214.1
+      }
+   ],
+   "Louisiana": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 694.2
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 758.2
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 693
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 717.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 781.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 898.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 951
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 984.6
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 1061.7
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 981.9
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 1007.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 929.1
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 855.9
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 779.5
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 732.7
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 681.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 686.3
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 663.3
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 636.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 640
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 596.6
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 721.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 740.4
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 671.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 642.9
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 555.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 554.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 496.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 521.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 515.9
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 539.8
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 565
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 556.3
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 543.3
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 559.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 639.4
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 662.7
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 628.6
+      }
+   ],
+   "Maine": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 167.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 147
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 152.1
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 157.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 137.2
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 143.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 132.1
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 130.9
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 125.7
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 129.9
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 131.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 124.9
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 120.8
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 125.9
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 112
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 109.6
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 111.7
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 107.8
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 108.6
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 103.7
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 112.5
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 116
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 118.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 119.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 119.9
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 122.1
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 123.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 122.4
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 132.5
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 127.6
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 129.8
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 124
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 120.6
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 112
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 116.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 108.6
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 112.9
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 103.3
+      }
+   ],
+   "Maryland": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 834.6
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 833
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 767.8
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 806.8
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 855.4
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 919
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 956.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 1000.1
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 997.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 948
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 986.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 931.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 846.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 796.6
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 743.4
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 786.6
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 781.4
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 770.8
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 703.5
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 700.6
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 704.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 678.6
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 641.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 628.2
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 590
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 546.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 493.5
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 477.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 475.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 448
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 470.1
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 481.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 503.3
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 469.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 454.4
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 399.9
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 435.1
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 398.5
+      }
+   ],
+   "Massachusetts": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 538.2
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 556.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 564.6
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 619.6
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 675
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 736.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 736.1
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 779
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 804.9
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 707.6
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 687.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 642.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 644.2
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 621.3
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 551
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 476.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 477.8
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 484.9
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 473.1
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 460.2
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 460.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 500.5
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 441.7
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 463.8
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 462.6
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 468.9
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 427.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 407
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 406.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 395.1
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 389.9
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 380.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 354.3
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 340.3
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 328.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 308.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 301.1
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 322
+      }
+   ],
+   "Michigan": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 734.1
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 803.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 780.1
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 741.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 709.2
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 790.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 803.1
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 770.1
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 791.5
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 766.1
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 687.8
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 635.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 590
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 620.8
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 574.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 555
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 553.9
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 540.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 511.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 492.2
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 553.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 564.4
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 533.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 514.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 499.8
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 493
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 442.8
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 455
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 452.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 429.1
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 420.6
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 460.9
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 449.9
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 452.5
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 438.6
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 478
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 491.1
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 461
+      }
+   ],
+   "Minnesota": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 256.4
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 284.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 285.4
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 290.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 288.3
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 306.1
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 316
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 338
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 353.9
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 359
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 356.1
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 338.8
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 337.8
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 310.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 274
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 280.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 263.7
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 267.2
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 262.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 269.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 297.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 310.5
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 289.6
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 265.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 244.5
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 235.7
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 230.5
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 230.9
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 234.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 229.1
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 242.9
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 241.9
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 239.7
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 221.2
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 237.5
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 277.5
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 308.9
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 280.6
+      }
+   ],
+   "Mississippi": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 270.9
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 274.1
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 269.8
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 325.2
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 311.2
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 340.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 389.1
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 411.7
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 433.9
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 493.7
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 502.8
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 488.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 469
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 410.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 349.3
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 360.9
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 349.9
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 343.9
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 323.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 295.4
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 279.6
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 311.8
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 291.3
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 304.3
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 286.3
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 269.3
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 269
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 260.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 277.5
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 278.3
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 274
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 281.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 256.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 266
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 261.2
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 291.2
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 255.4
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 245
+      }
+   ],
+   "Missouri": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 503.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 578.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 544.6
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 552.5
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 632.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 715.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 763
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 740.4
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 744.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 743.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 663.8
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 590.9
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 577.4
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 555.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 500.2
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 490
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 540.5
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 539
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 490.8
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 490.1
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 525.7
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 545.9
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 560.7
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 502.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 492.9
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 457.7
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 447.5
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 451.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 433.7
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 443.3
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 498.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 520.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 531.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 501.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 499.6
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 542.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 524.3
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 488
+      }
+   ],
+   "Montana": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 208.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 157.4
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 151.2
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 123
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 116
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 159.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 139.9
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 169.9
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 177.5
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 177.1
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 171.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 161
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 132.1
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 204.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 236.8
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 311.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 352
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 351.2
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 365
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 293.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 281.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 377.3
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 379.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 311.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 287
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 275.8
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 276.1
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 278.8
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 288.1
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 328.5
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 353.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 374.1
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 373.9
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 380.9
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 417.9
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 469.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 469.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 417.9
+      }
+   ],
+   "Nebraska": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": null
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 667.1
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 718.9
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 695.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 780.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 625.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 600.9
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 677
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 696.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 875.2
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 1001.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 945.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 811.3
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 798.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 643.6
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 569.9
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 524.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 589.2
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 639.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 616
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 616.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 607.5
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 748.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 754.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 729.7
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 705.2
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 663
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 568.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 608.6
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 605
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 635.7
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 697.6
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 677.9
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 560.6
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 552.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 496.1
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 460.3
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 432
+      }
+   ],
+   "Nevada": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 454
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 718.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 695.7
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 780.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 625.3
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 600.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 677
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 696.8
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 875.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 1001.9
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 945.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 811.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 798.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 643.6
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 569.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 524.2
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 589.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 639.3
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 616
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 616.4
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 607.5
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 748.8
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 754.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 729.7
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 705.2
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 663
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 568.1
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 608.6
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 605
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 635.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 697.6
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 677.9
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 560.6
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 552.1
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 496.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 460.3
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 432
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 454
+      }
+   ],
+   "New Hampshire": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 140.8
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 139.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 149.6
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 147.9
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 168.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 131.5
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 119.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 125.7
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 137.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 116.8
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 114.5
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 118.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 113.2
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 107.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 96.5
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 175.4
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 170.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 161.3
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 150.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 169.5
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 134.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 135.8
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 144.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 156.1
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 160.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 167.4
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 217.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 215
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 223.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 197.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 202.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 199.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 195.7
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 177.6
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 158.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 146.4
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 129.7
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 125.6
+      }
+   ],
+   "New Jersey": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 544.5
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 572.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 541
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 582.8
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 609
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 647.6
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 634.8
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 625.8
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 626.9
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 614.2
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 599.8
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 531.5
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 492.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 440.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 411.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 383.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 388.8
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 376.1
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 364.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 356.3
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 355.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 350.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 328.6
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 326.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 311.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 307.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 307.9
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 290.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 288.9
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 260.9
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 256
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 243.5
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 231.8
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 208.6
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 206.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 195.4
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 183.5
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 202.9
+      }
+   ],
+   "New Mexico": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 703.9
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 725.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 628.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 658.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 703.9
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 780.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 834.8
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 934.9
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 929.7
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 889.2
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 819.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 840.6
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 853.3
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 961.4
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 834.6
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 757.9
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 780.4
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 740.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 667.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 687.4
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 646.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 654.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 675.7
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 653.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 632.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 588
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 572.7
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 559.6
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 622.5
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 597.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 657.2
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 699.4
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 778.6
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 842.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 824
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 778.3
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 820.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 780.5
+      }
+   ],
+   "New York": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 929.9
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 985.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 1008.1
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 1097.3
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 1131.2
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 1180.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 1163.9
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 1122.1
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 1073.5
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 965.6
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 841.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 727
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 688.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 637.8
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 588.8
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 553.9
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 513.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 496.6
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 465.8
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 440.4
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 444.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 435.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 414.4
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 397.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 384.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 394.4
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 397.2
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 406.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 393.8
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 384.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 380.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 374.6
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 361.1
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 350.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 361
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 363.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 308.3
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 429.3
+      }
+   ],
+   "North Carolina": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 420.9
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 475.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 484
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 501.9
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 546.4
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 623.5
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 658.4
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 681
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 679.3
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 655
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 646.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 588.1
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 607
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 579.4
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 542.1
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 497.6
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 493.1
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 471
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 454.1
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 447.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 468.7
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 475.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 466.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 467.6
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 404.5
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 362.7
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 346.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 353.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 341
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 329.1
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 346.1
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 371.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 370.4
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 356.2
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 378.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 419.3
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 419.5
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 405.1
+      }
+   ],
+   "North Dakota": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 47
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 51.3
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 56.8
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 59.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 63.2
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 73.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 65.4
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 83.3
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 82.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 81.8
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 86.7
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 84
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 87.2
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 89.3
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 66.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 81.4
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 79.3
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 78.2
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 80.2
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 87.7
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 111.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 197.4
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 209.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 224.6
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 266.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 229.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 248.1
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 245.7
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 273.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 270.4
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 257.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 252.1
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 282.5
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 284.1
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 301.4
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 329
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 276.4
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 279.6
+      }
+   ],
+   "Ohio": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 381.6
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 420.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 421.3
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 452
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 468.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 506.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 561.8
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 525.9
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 504.1
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 485.8
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 482.5
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 428.7
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 435.4
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 362.5
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 316.4
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 334.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 351.4
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 351.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 333.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 338.7
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 350.1
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 361.5
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 355.4
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 352
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 331.9
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 314.7
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 305.2
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 301.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 291.4
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 285.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 296.2
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 307.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 296.8
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 294.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 296
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 308.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 317.4
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 293.6
+      }
+   ],
+   "Oklahoma": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 422
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 436.4
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 417.6
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 434.5
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 491.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 547.5
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 583.7
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 622.8
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 634.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 651.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 664.1
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 597.1
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 559.5
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 539.4
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 508.2
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 497.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 510.9
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 504
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 506.4
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 500.5
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 509.2
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 500.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 504.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 531.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 503.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 481.4
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 457.5
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 474.4
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 446.1
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 413.8
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 428.6
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 455.3
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 457.4
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 474.6
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 436.3
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 458.6
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 438
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 419.7
+      }
+   ],
+   "Oregon": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 551.1
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 549.7
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 539.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 545.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 518.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 506.8
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 506.3
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 510.2
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 503.1
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 520.6
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 522.4
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 463.1
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 444.4
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 419.8
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 374.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 350.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 306.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 292.5
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 294.8
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 298.6
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 287
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 284.6
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 293.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 261.4
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 260.6
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 251.4
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 249.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 247.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 242.8
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 259.2
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 265.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 268.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 280.4
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 290.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 293.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 291.9
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 341.3
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 342.4
+      }
+   ],
+   "Pennsylvania": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 331.1
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 358.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 369.4
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 362
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 378.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 431
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 450
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 427
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 417.5
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 426.7
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 427.3
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 480.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 442.1
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 420.5
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 420.5
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 420
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 409.9
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 402.1
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 397.8
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 411.5
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 425.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 442.3
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 416.7
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 410
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 382.3
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 366.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 362.4
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 355.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 335.1
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 315
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 315.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 315.9
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 313
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 305.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 306
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 389.5
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 281.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 279.9
+      }
+   ],
+   "Rhode Island": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 346.6
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 335.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 359.7
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 396.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 378
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 431.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 462
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 394.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 401.7
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 375.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 368
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 347.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 333.5
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 312.1
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 286.6
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 297.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 309.3
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 285.6
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 285.7
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 247.5
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 252.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 230.4
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 229.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 252.8
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 254.3
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 257.4
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 246.1
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 253
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 257.3
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 219.9
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 243
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 239.1
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 234.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 219.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 222.7
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 230.8
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 200.5
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 172.3
+      }
+   ],
+   "South Carolina": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 631
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 674.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 664.9
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 741.2
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 813.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 976.6
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 972.5
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 944.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 1023.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 1030.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 981.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 996.9
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 990.3
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 903.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 847.2
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 828.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 815.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 822.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 806.4
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 789.9
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 767.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 771.1
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 785.7
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 731
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 675.2
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 602.2
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 596.9
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 560.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 508.5
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 497.8
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 499.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 506.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 506.1
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 500.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 510.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 530.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 513.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 491.3
+      }
+   ],
+   "South Dakota": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 136.6
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 124.7
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 119.7
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 113.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 135.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 162.8
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 182.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 194.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 208.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 227.6
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 207.5
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 177.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 197.4
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 154.3
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 167.4
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 166.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 154.4
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 177.5
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 173.7
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 171.2
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 179
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 264.9
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 241.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 276.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 218.7
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 268.9
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 255.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 323.8
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 323.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 328.3
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 384.9
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 422
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 429.8
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 396.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 397.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 501.4
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 391.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 377.4
+      }
+   ],
+   "Tennessee": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 474.4
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 539.6
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 533.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 532.7
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 548.9
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 670.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 725.9
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 746.2
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 765.8
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 747.9
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 771.5
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 774
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 789.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 715
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 695
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 707.2
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 744
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 717.8
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 691.3
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 697.6
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 757.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 762.5
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 755
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 722.7
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 666
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 612
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 607.8
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 638.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 585.8
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 610.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 618.9
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 638.5
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 655
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 630.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 598.9
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 672.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 671.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 621.6
+      }
+   ],
+   "Texas": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 550
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 658.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 631.1
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 652.6
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 658.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 761.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 840.1
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 806.3
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 762.1
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 706.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 663.9
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 644.4
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 602.5
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 564.6
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 560.3
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 545.1
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 571.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 579.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 553.1
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 540.9
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 528.1
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 517.3
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 510.4
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 508
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 491
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 448.4
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 408.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 408.6
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 410.3
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 406.7
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 412.7
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 433.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 437.8
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 412.9
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 421.8
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 446.5
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 453
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 431.9
+      }
+   ],
+   "Utah": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 267.4
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 266.7
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 229.8
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 243.1
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 258.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 283.9
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 286.8
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 290.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 301
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 304.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 328.8
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 331.9
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 334
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 314.2
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 275.6
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 255.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 233.2
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 236.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 250.4
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 233.3
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 225.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 226.3
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 239.9
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 225.3
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 215.4
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 213.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 197.1
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 208
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 228.9
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 219.5
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 238.7
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 243.3
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 242.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 239.4
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 236.9
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 260.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 259.1
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 241.8
+      }
+   ],
+   "Vermont": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 147.7
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 149.2
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 136.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 142.3
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 132.8
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 127.2
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 116.8
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 109.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 114.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 96.9
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 118.3
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 121.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 119.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 106.3
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 113.9
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 113.5
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 105.1
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 106.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 114.2
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 114.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 125.6
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 145.1
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 129.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 137.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 134.6
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 131
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 147.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 142.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 123.6
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 102.6
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 119.3
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 136.5
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 173.3
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 185
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 207.2
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 173.4
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 194
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 221.9
+      }
+   ],
+   "Virginia": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 294.7
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 306
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 295
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 299.2
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 312.5
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 350.6
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 373.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 374.9
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 372.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 357.7
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 361.5
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 341.3
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 345.2
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 325.7
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 314.7
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 281.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 291
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 291.7
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 278.2
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 275.5
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 283.4
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 283.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 272.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 257.8
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 230.8
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 214.2
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 197.6
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 191.5
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 197.8
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 198.4
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 199.6
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 219.8
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 210.4
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 204.2
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 209.4
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 208.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 225.5
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 234
+      }
+   ],
+   "Washington": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 425.4
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 437
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 439.5
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 466.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 471.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 501.6
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 522.6
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 534.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 514.6
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 511.3
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 484.3
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 431.2
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 440.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 428.5
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 377.3
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 369.7
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 354.7
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 345.5
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 346.9
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 343.6
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 345.6
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 348.7
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 336.5
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 334.2
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 336.3
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 313.5
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 295.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 298.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 290
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 285.8
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 286.4
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 303.5
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 302.8
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 315.3
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 303.3
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 293.7
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 335.7
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 375.6
+      }
+   ],
+   "West Virginia": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 166
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 164.5
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 137.3
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 131.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 146.7
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 169.3
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 191
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 211.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 208.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 215.8
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 210.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 210.1
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 218.7
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 248.6
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 350.7
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 316.5
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 279.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 233.9
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 255.4
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 281.9
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 273.9
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 281.2
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 276.8
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 275.9
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 305.2
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 301.2
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 296.3
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 320.1
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 305.2
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 316.4
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 347.5
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 362.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 361.2
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 299.9
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 318.9
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 355.9
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 291.5
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 277.9
+      }
+   ],
+   "Wisconsin": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 206.9
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 257.9
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 249.9
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 214.4
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 222.6
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 264.7
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 277
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 275.7
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 264.4
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 270.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 281.1
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 252.7
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 270.6
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 249
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 245.8
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 236.8
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 231
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 225
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 221.1
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 209.8
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 241.8
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 286.1
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 291.5
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 275.5
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 259.1
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 248.9
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 249.9
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 283.9
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 280.7
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 291.1
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 304.3
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 306.9
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 321.8
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 299
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 297.1
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 323.4
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 325.4
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 297
+      }
+   ],
+   "Wyoming": [
+      {
+         "Year": 1985,
+         "Violent Crime per hundred thousand people": 256.8
+      },
+      {
+         "Year": 1986,
+         "Violent Crime per hundred thousand people": 293.1
+      },
+      {
+         "Year": 1987,
+         "Violent Crime per hundred thousand people": 283.1
+      },
+      {
+         "Year": 1988,
+         "Violent Crime per hundred thousand people": 314
+      },
+      {
+         "Year": 1989,
+         "Violent Crime per hundred thousand people": 258.3
+      },
+      {
+         "Year": 1990,
+         "Violent Crime per hundred thousand people": 301.4
+      },
+      {
+         "Year": 1991,
+         "Violent Crime per hundred thousand people": 310.2
+      },
+      {
+         "Year": 1992,
+         "Violent Crime per hundred thousand people": 319.5
+      },
+      {
+         "Year": 1993,
+         "Violent Crime per hundred thousand people": 286.2
+      },
+      {
+         "Year": 1994,
+         "Violent Crime per hundred thousand people": 272.5
+      },
+      {
+         "Year": 1995,
+         "Violent Crime per hundred thousand people": 254.2
+      },
+      {
+         "Year": 1996,
+         "Violent Crime per hundred thousand people": 249.7
+      },
+      {
+         "Year": 1997,
+         "Violent Crime per hundred thousand people": 255.2
+      },
+      {
+         "Year": 1998,
+         "Violent Crime per hundred thousand people": 247.6
+      },
+      {
+         "Year": 1999,
+         "Violent Crime per hundred thousand people": 232.5
+      },
+      {
+         "Year": 2000,
+         "Violent Crime per hundred thousand people": 266.5
+      },
+      {
+         "Year": 2001,
+         "Violent Crime per hundred thousand people": 257.6
+      },
+      {
+         "Year": 2002,
+         "Violent Crime per hundred thousand people": 273.4
+      },
+      {
+         "Year": 2003,
+         "Violent Crime per hundred thousand people": 261.7
+      },
+      {
+         "Year": 2004,
+         "Violent Crime per hundred thousand people": 229.9
+      },
+      {
+         "Year": 2005,
+         "Violent Crime per hundred thousand people": 230.3
+      },
+      {
+         "Year": 2006,
+         "Violent Crime per hundred thousand people": 253.8
+      },
+      {
+         "Year": 2007,
+         "Violent Crime per hundred thousand people": 257.1
+      },
+      {
+         "Year": 2008,
+         "Violent Crime per hundred thousand people": 249.7
+      },
+      {
+         "Year": 2009,
+         "Violent Crime per hundred thousand people": 219.7
+      },
+      {
+         "Year": 2010,
+         "Violent Crime per hundred thousand people": 197.9
+      },
+      {
+         "Year": 2011,
+         "Violent Crime per hundred thousand people": 219.4
+      },
+      {
+         "Year": 2012,
+         "Violent Crime per hundred thousand people": 201.3
+      },
+      {
+         "Year": 2013,
+         "Violent Crime per hundred thousand people": 207.8
+      },
+      {
+         "Year": 2014,
+         "Violent Crime per hundred thousand people": 195.4
+      },
+      {
+         "Year": 2015,
+         "Violent Crime per hundred thousand people": 221.6
+      },
+      {
+         "Year": 2016,
+         "Violent Crime per hundred thousand people": 244.7
+      },
+      {
+         "Year": 2017,
+         "Violent Crime per hundred thousand people": 234.6
+      },
+      {
+         "Year": 2018,
+         "Violent Crime per hundred thousand people": 213.8
+      },
+      {
+         "Year": 2019,
+         "Violent Crime per hundred thousand people": 215
+      },
+      {
+         "Year": 2020,
+         "Violent Crime per hundred thousand people": 234.2
+      },
+      {
+         "Year": 2021,
+         "Violent Crime per hundred thousand people": 223.8
+      },
+      {
+         "Year": 2022,
+         "Violent Crime per hundred thousand people": 201.9
+      }
+   ]
+}
