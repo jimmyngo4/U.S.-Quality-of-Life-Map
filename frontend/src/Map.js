@@ -6,8 +6,6 @@ import "bootstrap/dist/css/bootstrap.css";
 import "leaflet/dist/leaflet.css";
 import "chart.js/auto";
 import data from "./us_states.json";
-import state_data from "./state_data_violent_crime.json";
-import state_data_poverty from "./state_data_poverty.json";
 
 export const Map = () => {
   const position = [39.82834576736471, -98.57950344726182];
@@ -15,6 +13,19 @@ export const Map = () => {
   const [compareState, setCompareState] = useState([]);
   const [chartData, setChartData] = useState(null);
   const [povertyData, setPovertyData] = useState(null);
+  const [incomeData, setIncomeData] = useState(null);
+  const [unemploymentData, setUnemploymentData] = useState(null);
+  const [bachelorsData, setBachelorsData] = useState(null);
+  const [homeData, setHomeData] = useState(null);
+
+  /*--------------------------Data From Database --------------------------*/
+  const [state_data, setStateData] = useState([]); // violent crime data
+  const [state_data_poverty, setStateDataPoverty] = useState([]); // poverty data
+  const [state_data_unemployment, setStateDataUnemployment] = useState(null); // unemployment data
+  const [state_data_income, setStateDataIncome] = useState(null); // median income data
+  const [state_data_home, setStateDataHome] = useState(null); // home value
+  const [state_data_degrees, setStateDataDegrees] = useState(null); // bachelor's degrees
+
   const states = Object.keys(state_data);
 
   const violenceChartOptions = {
@@ -123,6 +134,254 @@ export const Map = () => {
     },
   };
 
+  const incomeChartOptions = {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: "top",
+      },
+      title: {
+        display: true,
+        text: `Median Income for the State of ${state}`,
+        font: {
+          family: "Arial",
+          size: 20,
+          weight: "bold",
+        },
+      },
+    },
+    scales: {
+      x: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Year",
+          color: "black",
+          size: 20,
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+      y: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Median Income",
+          color: "black",
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+    },
+  }
+
+  const unemploymentChartOptions = {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: "top",
+      },
+      title: {
+        display: true,
+        text: `Unemployment Rate for the State of ${state}`,
+        font: {
+          family: "Arial",
+          size: 20,
+          weight: "bold",
+        },
+      },
+    },
+    scales: {
+      x: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Year",
+          color: "black",
+          size: 20,
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+      y: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Unemployment Rate",
+          color: "black",
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+    },
+  }
+
+  const homeChartOptions = {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: "top",
+      },
+      title: {
+        display: true,
+        text: `Home Value for the State of ${state}`,
+        font: {
+          family: "Arial",
+          size: 20,
+          weight: "bold",
+        },
+      },
+    },
+    scales: {
+      x: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Year",
+          color: "black",
+          size: 20,
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+      y: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Home Value",
+          color: "black",
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+    },
+  }
+
+  const degreesChartOptions = {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: "top",
+      },
+      title: {
+        display: true,
+        text: `Degrees for the State of ${state}`,
+        font: {
+          family: "Arial",
+          size: 20,
+          weight: "bold",
+        },
+      },
+    },
+    scales: {
+      x: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Year",
+          color: "black",
+          size: 20,
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+      y: {
+        display: true,
+        grid: {
+          display: false,
+        },
+        title: {
+          display: true,
+          text: "Degrees",
+          color: "black",
+          font: {
+            family: "Arial",
+            size: 15,
+            lineHeight: 1.2,
+          },
+        },
+      },
+    },
+  }
+
+  // Get all data from the start
+  useEffect(() => {
+    async function fetchPovertyData() {
+      try {
+        const response1 = await fetch('http://127.0.0.1:5000/poverty-data');
+        const data = await response1.json();
+        setStateDataPoverty(data);
+        
+        const response2 = await fetch('http://127.0.0.1:5000/crime-data');
+        const data2 = await response2.json();
+        setStateData(data2);
+
+        const response3 = await fetch('http://127.0.0.1:5000/unemployment-rate');
+        const data3 = await response3.json();
+        setStateDataUnemployment(data3);
+
+        const response4 = await fetch('http://127.0.0.1:5000/median-income');
+        const data4 = await response4.json();
+        setStateDataIncome(data4);
+
+        const response5 = await fetch('http://127.0.0.1:5000/home-value');
+        const data5 = await response5.json();
+        setStateDataHome(data5);
+
+        const response6 = await fetch('http://127.0.0.1:5000/bachelors-degree');
+        const data6 = await response6.json();
+        setStateDataDegrees(data6);
+
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    }
+
+    fetchPovertyData();
+  }, [])
+
   useEffect(() => {
     const state_violence_data = state_data[state];
     const statePovertyData = state_data_poverty[state];
@@ -211,7 +470,119 @@ export const Map = () => {
       }
       setPovertyData(newPovertyData)
     }
-  }, [state, compareState]);
+
+    if (state_data_income) {
+      getChartDataForIncome();
+    }
+    if (state_data_unemployment) {
+      getChartDataForUnemployment();
+    }
+    if (state_data_degrees) {
+      getChartDataForBachelors();
+    }
+    if (state_data_home) {
+      getChartDataForHome();
+    }
+
+  }, [state, compareState, state_data_poverty, state_data, state_data_income]);
+
+  const getChartDataForIncome = () => {
+    const stateIncomeData = state_data_income[state];
+
+    const years = stateIncomeData?.map((entry) => entry.Year);
+    const incomeState = stateIncomeData.map(
+      (entry) => {
+        const value = entry["Median income"];
+        if (typeof value == 'number')
+          return value;
+        else
+          return Number(value.replaceAll(",", ""));
+      }
+    )
+
+    // add data to compare between different states
+
+    const newIncomeData = {
+      labels: years,
+      datasets: [
+        {
+          label: state,
+          data: incomeState,
+          borderColor: "rgb(75, 192, 192)",
+        }
+      ]
+    }
+    setIncomeData(newIncomeData);
+  }
+
+  const getChartDataForUnemployment = () => {
+    const stateUnemploymentData = state_data_unemployment[state];
+
+    const years = stateUnemploymentData?.map((entry) => entry.Year);
+    const unemploymentState = stateUnemploymentData.map(
+      (entry) => entry["Unemployment rate"]
+    )
+
+    // add data to compare between different states
+
+    const newUnemploymentData = {
+      labels: years,
+      datasets: [
+        {
+          label: state,
+          data: unemploymentState,
+          borderColor: "rgb(75, 192, 192)",
+        }
+      ]
+    }
+    setUnemploymentData(newUnemploymentData);
+  }
+
+  const getChartDataForBachelors = () => {
+    const stateDegreesData = state_data_degrees[state];
+
+    const years = stateDegreesData?.map((entry) => entry.Year);
+    const degreesState = stateDegreesData.map(
+      (entry) => entry["Percent with bachelor's degree"]
+    )
+
+    // add data to compare between different states
+
+    const newDegreeData = {
+      labels: years,
+      datasets: [
+        {
+          label: state,
+          data: degreesState,
+          borderColor: "rgb(75, 192, 192)",
+        }
+      ]
+    }
+    setBachelorsData(newDegreeData);
+  }
+
+  const getChartDataForHome = () => {
+    const stateHomeData = state_data_home[state];
+
+    const years = stateHomeData?.map((entry) => entry.Year);
+    const homeState = stateHomeData.map(
+      (entry) => entry["Home value"]
+    )
+
+    // add data to compare between different states
+
+    const newHomeData = {
+      labels: years,
+      datasets: [
+        {
+          label: state,
+          data: homeState,
+          borderColor: "rgb(75, 192, 192)",
+        }
+      ]
+    }
+    setHomeData(newHomeData);
+  }
 
   const onEachFeature = (feature, layer) => {
     if (feature?.properties?.NAME) {
@@ -300,6 +671,22 @@ export const Map = () => {
           </Col>
           <Col xs={6}>
             {povertyData && <Line data={povertyData} options={povertyChartOptions} />}
+          </Col>
+        </Row>
+        <Row className="justify-content-center">
+          <Col xs={6}>
+            {incomeData && <Line data={incomeData} options={incomeChartOptions} />}
+          </Col>
+          <Col xs={6}>
+            {unemploymentData && <Line data={unemploymentData} options={unemploymentChartOptions}/>}
+          </Col>
+        </Row>
+        <Row>
+          <Col xs={6}>
+            {homeData && <Line data={homeData} options={homeChartOptions}/>}
+          </Col>
+          <Col xs={6}>
+            {bachelorsData && <Line data={bachelorsData} options={degreesChartOptions}/>}
           </Col>
         </Row>
       </Container>
