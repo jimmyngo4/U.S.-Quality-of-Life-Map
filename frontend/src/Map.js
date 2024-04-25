@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "leaflet/dist/leaflet.css";
 import "chart.js/auto";
 import data from "./us_states.json";
+import qol from './state_qol.json';
 
 export const Map = () => {
   const position = [39.82834576736471, -98.57950344726182];
@@ -471,6 +472,15 @@ export const Map = () => {
       setPovertyData(newPovertyData)
     }
 
+    if (compareState.length !== 0) {
+      getChartDataForIncome();
+      getChartDataForUnemployment();
+      getChartDataForBachelors();
+      getChartDataForHome();
+      console.log("DATA")
+      console.log(compareState.length)
+    }
+
     if (state_data_income) {
       getChartDataForIncome();
     }
@@ -501,18 +511,52 @@ export const Map = () => {
     )
 
     // add data to compare between different states
+    if (compareState) {
+      const lineColors = ["black", "red", "green", "blue", "orange"]
+      const stateIncomeData = [];
 
-    const newIncomeData = {
-      labels: years,
-      datasets: [
-        {
-          label: state,
-          data: incomeState,
-          borderColor: "rgb(75, 192, 192)",
-        }
-      ]
+      for (const state of compareState) {
+        const compareIncomeData = state_data_income[state]?.map(
+          (entry) => {
+            const value = entry["Median income"];
+            if (typeof value == 'number')
+              return value;
+            else
+              return Number(value.replaceAll(",", ""));
+          }
+        )
+        stateIncomeData.push({ state: state, data: compareIncomeData})
+      }
+
+      const newChartData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: incomeState,
+            borderColor: "rgb(75, 192, 192",
+          },
+          ...stateIncomeData.map(({ state, data }, index) => ({
+            label: state,
+            data: data,
+            borderColor: lineColors[index],
+          })),
+        ]
+      }
+      setIncomeData(newChartData)
+    } else {
+      const newIncomeData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: incomeState,
+            borderColor: "rgb(75, 192, 192)",
+          }
+        ]
+      }
+      setIncomeData(newIncomeData)
     }
-    setIncomeData(newIncomeData);
   }
 
   const getChartDataForUnemployment = () => {
@@ -524,18 +568,46 @@ export const Map = () => {
     )
 
     // add data to compare between different states
+    if (compareState) {
+      const lineColors = ["black", "red", "green", "blue", "orange"]
+      const stateUnemploymentData = [];
 
-    const newUnemploymentData = {
-      labels: years,
-      datasets: [
-        {
-          label: state,
-          data: unemploymentState,
-          borderColor: "rgb(75, 192, 192)",
-        }
-      ]
+      for (const state of compareState) {
+        const compareUnemploymentData = state_data_unemployment[state]?.map(
+          (entry) => entry["Unemployment rate"]
+        )
+        stateUnemploymentData.push({ state: state, data: compareUnemploymentData})
+      }
+      const newChartData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: unemploymentState,
+            borderColor: "rgb(75, 192, 192",
+          },
+          ...stateUnemploymentData.map(({ state, data }, index) => ({
+            label: state,
+            data: data,
+            borderColor: lineColors[index],
+          })),
+        ]
+      }
+      setUnemploymentData(newChartData)
+    } else {
+      const newUnemploymentData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: unemploymentState,
+            borderColor: "rgb(75, 192, 192)",
+          }
+        ]
+      }
+      setUnemploymentData(newUnemploymentData);
     }
-    setUnemploymentData(newUnemploymentData);
+
   }
 
   const getChartDataForBachelors = () => {
@@ -547,18 +619,46 @@ export const Map = () => {
     )
 
     // add data to compare between different states
-
-    const newDegreeData = {
-      labels: years,
-      datasets: [
-        {
-          label: state,
-          data: degreesState,
-          borderColor: "rgb(75, 192, 192)",
-        }
-      ]
+    if (compareState) {
+      const lineColors = ["black", "red", "green", "blue", "orange"]
+      const stateDegreesData = [];
+    
+      for (const state of compareState) {
+        const compareDegreesData = state_data_degrees[state]?.map(
+          (entry) => entry["Percent with bachelor's degree"]
+        )
+        stateDegreesData.push({ state: state, data: compareDegreesData});
+      }
+      const newChartData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: degreesState,
+            borderColor: "rgb(75, 192, 192",
+          },
+          ...stateDegreesData.map(({ state, data }, index) => ({
+            label: state,
+            data: data,
+            borderColor: lineColors[index],
+          })),
+        ]
+      }
+      setBachelorsData(newChartData)
+    } else {
+      const newDegreeData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: degreesState,
+            borderColor: "rgb(75, 192, 192)",
+          }
+        ]
+      }
+      setBachelorsData(newDegreeData);
     }
-    setBachelorsData(newDegreeData);
+
   }
 
   const getChartDataForHome = () => {
@@ -570,29 +670,99 @@ export const Map = () => {
     )
 
     // add data to compare between different states
+    if (compareState) {
+      const lineColors = ["black", "red", "green", "blue", "orange"]
+      const stateHomeData = [];
 
-    const newHomeData = {
-      labels: years,
-      datasets: [
-        {
-          label: state,
-          data: homeState,
-          borderColor: "rgb(75, 192, 192)",
-        }
-      ]
+      for (const state of compareState) {
+        const compareHomeData = state_data_home[state]?.map(
+          (entry) => entry["Home value"]
+        )
+        stateHomeData.push({ state: state, data: compareHomeData});
+      }
+
+      const newChartData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: homeState,
+            borderColor: "rgb(75, 192, 192",
+          },
+          ...stateHomeData.map(({ state, data }, index) => ({
+            label: state,
+            data: data,
+            borderColor: lineColors[index],
+          })),
+        ]
+      }
+      setHomeData(newChartData)
+    } else {
+      const newHomeData = {
+        labels: years,
+        datasets: [
+          {
+            label: state,
+            data: homeState,
+            borderColor: "rgb(75, 192, 192)",
+          }
+        ]
+      }
+      setHomeData(newHomeData);
     }
-    setHomeData(newHomeData);
   }
 
   const onEachFeature = (feature, layer) => {
     if (feature?.properties?.NAME) {
+      const index = qol[feature.properties.NAME]?.QoL
+      layer.setStyle({color: getColorForValue(index)});
       layer.bindTooltip(feature.properties.NAME);
       layer.on('click', () => {
         setState(feature.properties.NAME);
       })
-      layer.setStyle({ color: "#808080" })
     }
   }
+
+  const  getColorForValue = (value) => {
+    const minValue = 30;
+    const maxValue = 80;
+    
+    if (value < minValue) {
+        value = minValue;
+    } else if (value > maxValue) {
+        value = maxValue;
+    }
+    
+    const normalizedValue = (value - minValue) / (maxValue - minValue);
+    const hue = 120 * normalizedValue;
+    const rgbColor = hslToRgb(hue / 360, 1, 0.5);
+
+    return `rgb(${rgbColor[0]}, ${rgbColor[1]}, ${rgbColor[2]})`;
+    }
+    
+    function hslToRgb(h, s, l) {
+    let r, g, b;
+    
+    if (s === 0) {
+        r = g = b = l;
+    } else {
+        const hue2rgb = (p, q, t) => {
+        if (t < 0) t += 1;
+        if (t > 1) t -= 1;
+        if (t < 1 / 6) return p + (q - p) * 6 * t;
+        if (t < 1 / 2) return q;
+        if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+        return p;
+        };
+        const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+        const p = 2 * l - q;
+        r = hue2rgb(p, q, h + 1 / 3);
+        g = hue2rgb(p, q, h);
+        b = hue2rgb(p, q, h - 1 / 3);
+    }
+    
+    return [Math.round(r * 255), Math.round(g * 255), Math.round(b * 255)];
+    }
 
   return (
     <div>
@@ -613,7 +783,7 @@ export const Map = () => {
           <Col xs={2}>
             <Dropdown>
               <Dropdown.Toggle variant="dark">{state}</Dropdown.Toggle>
-              <Dropdown.Menu>
+              <Dropdown.Menu style={{overflow: 'auto', maxHeight: '50vh'}}>
                 {states &&
                   states.map((state) => (
                     <Dropdown.Item onClick={() => setState(state)} id="state">
