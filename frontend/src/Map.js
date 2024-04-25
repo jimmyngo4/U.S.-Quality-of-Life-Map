@@ -351,27 +351,27 @@ export const Map = () => {
   useEffect(() => {
     async function fetchPovertyData() {
       try {
-        const response1 = await fetch('http://127.0.0.1:5000/poverty-data');
+        const response1 = await fetch('http://54.160.249.134:5000/poverty-data');
         const data = await response1.json();
         setStateDataPoverty(data);
         
-        const response2 = await fetch('http://127.0.0.1:5000/crime-data');
+        const response2 = await fetch('http://54.160.249.134:5000/crime-data');
         const data2 = await response2.json();
         setStateData(data2);
 
-        const response3 = await fetch('http://127.0.0.1:5000/unemployment-rate');
+        const response3 = await fetch('http://54.160.249.134:5000/unemployment-rate');
         const data3 = await response3.json();
         setStateDataUnemployment(data3);
 
-        const response4 = await fetch('http://127.0.0.1:5000/median-income');
+        const response4 = await fetch('http://54.160.249.134:5000/median-income');
         const data4 = await response4.json();
         setStateDataIncome(data4);
 
-        const response5 = await fetch('http://127.0.0.1:5000/home-value');
+        const response5 = await fetch('http://54.160.249.134:5000/home-value');
         const data5 = await response5.json();
         setStateDataHome(data5);
 
-        const response6 = await fetch('http://127.0.0.1:5000/bachelors-degree');
+        const response6 = await fetch('http://54.160.249.134:5000/bachelors-degree');
         const data6 = await response6.json();
         setStateDataDegrees(data6);
 
