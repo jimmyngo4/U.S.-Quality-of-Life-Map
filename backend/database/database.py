@@ -13,7 +13,7 @@ def load_data():
     # df4 = poverty_rate()
     # df5 = unemployment_rate()
     # df6 = home_value()
-    # df7 = qol()
+    df7 = qol()
 
     load_dotenv()
 
@@ -26,13 +26,13 @@ def load_data():
     )
     engine = create_engine(db_url)
 
-    # df1.to_sql('bachelors_degree', engine, index=False)
+    # df1.to_sql('bachelors_degree', engine, index=False, if_exists='replace')
     # df2.to_sql('median_income', engine, index=False, if_exists='replace')
-    # df3.to_sql('crime_rate', engine, index=False)
-    # df4.to_sql('poverty_rate', engine, index=False)
+    # df3.to_sql('crime_rate', engine, index=False, if_exists='replace')
+    # df4.to_sql('poverty_rate', engine, index=False, if_exists='replace')
     # df5.to_sql('unemployment_rate', engine, index=False, if_exists='replace')
-    # df6.to_sql('home_value', engine, index=False)
-    # df7.to_sql('qol', engine, index=False)
+    # df6.to_sql('home_value', engine, index=False, if_exists='replace')
+    df7.to_sql('qol', engine, index=False, if_exists='replace')
 
     print(inspect(engine).get_table_names())
 
@@ -49,7 +49,10 @@ def bachelors_degree():
     df1 = df1.join(df2.set_index('State'), on='State')
     df1 = df1.join(df3.set_index('State'), on='State')
 
-    return df1.join(df4.set_index('State'), on='State')
+    bachelors_degree_df = df1.join(df4.set_index('State'), on='State')
+    bachelors_degree_df.pop('Predicted 2022')
+
+    return bachelors_degree_df
 
 
 def median_income():
@@ -67,6 +70,7 @@ def median_income():
     df2.insert(len(df2.columns) - 1, 'Error 2022', df2.pop('Error 2022'))
 
     median_income_df = df1.join(df2.set_index('State'), on='State')
+    median_income_df.pop('Predicted 2022')
 
     return median_income_df
 
@@ -85,23 +89,22 @@ def crime_rate():
                               'Predicted 2024_Crime': 'Predicted 2024'})
 
     crime_rate_df = df1.join(df2.set_index('State'), on='State')
+    crime_rate_df.pop('Predicted 2022')
 
     return crime_rate_df
 
 
 def poverty_rate():
-    df1 = pd.read_csv("../data/State-data.csv")
-    df2 = pd.read_csv("../predicted_data/crime_poverty_predictions_2022_2023_2024.csv")
-
-    df1 = df1.pivot_table(index='State', columns='Year', values='Poverty in thousands')
-    df1 = df1.reset_index()
-    df1.columns.name = ''
+    df1 = pd.read_csv("../data/poverty_rate.csv")
+    df2 = pd.read_csv("../predicted_data/state_poverty_predictions.csv")
 
     states = df2.iloc[:, 0:1]
-    df2 = df2.iloc[:, 4:]
-    df2 = pd.concat([states, df2], axis=1)
+    df2 = df2.rename(columns={"2022": "Predicted 2022",
+                              "2023": "Predicted 2023",
+                              "2024": "Predicted 2024"})
 
     poverty_rate_df = df1.join(df2.set_index('State'), on='State')
+    poverty_rate_df.pop('Predicted 2022')
 
     return poverty_rate_df
 
@@ -132,6 +135,7 @@ def unemployment_rate():
     df2.columns.name = ''
 
     unemployment_rate_df = df1.join(df2.set_index('State'), on='State')
+    unemployment_rate_df.pop('Predicted 2022')
 
     return unemployment_rate_df
 
@@ -147,7 +151,9 @@ def home_value():
     df.columns = pd.to_datetime(df.columns)
     df = df.groupby(df.columns.year, axis=1).mean()
 
-    return states.join(df)
+    home_value_df = states.join(df)
+
+    return home_value_df
 
 
 def qol():
@@ -157,4 +163,4 @@ def qol():
 
 
 if __name__ == '__main__':
-    poverty_rate()
+    load_data()
