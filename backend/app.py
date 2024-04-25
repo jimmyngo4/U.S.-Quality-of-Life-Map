@@ -89,6 +89,8 @@ def get_median_income():
         for i in range(1, len(row)):
             # The data for median income begins from 1984
             year = 1983 + i
+            if (year == 2025):
+                break
             median_income_data.append({'Year': year, "Median income": row[i]})
         data[state] = median_income_data
 

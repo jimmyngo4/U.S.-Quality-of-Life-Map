@@ -90,7 +90,7 @@ export const Map = () => {
       },
       title: {
         display: true,
-        text: `Poverty In Thousands for the State of ${state}`,
+        text: `Poverty Rate for the State of ${state}`,
         font: {
           family: "Arial",
           size: 20,
@@ -123,7 +123,7 @@ export const Map = () => {
         },
         title: {
           display: true,
-          text: "People in Poverty (Thousands)",
+          text: "Poverty (%)",
           color: "black",
           font: {
             family: "Arial",
@@ -302,7 +302,7 @@ export const Map = () => {
       },
       title: {
         display: true,
-        text: `Degrees for the State of ${state}`,
+        text: `Percentage with Degrees for the State of ${state}`,
         font: {
           family: "Arial",
           size: 20,
@@ -335,7 +335,7 @@ export const Map = () => {
         },
         title: {
           display: true,
-          text: "Degrees",
+          text: "Degrees (%)",
           color: "black",
           font: {
             family: "Arial",
@@ -351,27 +351,27 @@ export const Map = () => {
   useEffect(() => {
     async function fetchPovertyData() {
       try {
-        const response1 = await fetch('http://54.160.249.134:5000/poverty-data');
+        const response1 = await fetch('http://127.0.0.1:5000/poverty-data');
         const data = await response1.json();
         setStateDataPoverty(data);
         
-        const response2 = await fetch('http://54.160.249.134:5000/crime-data');
+        const response2 = await fetch('http://127.0.0.1:5000/crime-data');
         const data2 = await response2.json();
         setStateData(data2);
 
-        const response3 = await fetch('http://54.160.249.134:5000/unemployment-rate');
+        const response3 = await fetch('http://127.0.0.1:5000/unemployment-rate');
         const data3 = await response3.json();
         setStateDataUnemployment(data3);
 
-        const response4 = await fetch('http://54.160.249.134:5000/median-income');
+        const response4 = await fetch('http://127.0.0.1:5000/median-income');
         const data4 = await response4.json();
         setStateDataIncome(data4);
 
-        const response5 = await fetch('http://54.160.249.134:5000/home-value');
+        const response5 = await fetch('http://127.0.0.1:5000/home-value');
         const data5 = await response5.json();
         setStateDataHome(data5);
 
-        const response6 = await fetch('http://54.160.249.134:5000/bachelors-degree');
+        const response6 = await fetch('http://127.0.0.1:5000/bachelors-degree');
         const data6 = await response6.json();
         setStateDataDegrees(data6);
 
@@ -477,8 +477,6 @@ export const Map = () => {
       getChartDataForUnemployment();
       getChartDataForBachelors();
       getChartDataForHome();
-      console.log("DATA")
-      console.log(compareState.length)
     }
 
     if (state_data_income) {
@@ -494,7 +492,7 @@ export const Map = () => {
       getChartDataForHome();
     }
 
-  }, [state, compareState, state_data_poverty, state_data, state_data_income]);
+  }, [state, compareState, state_data_poverty, state_data, state_data_income, state_data_home, state_data_degrees]);
 
   const getChartDataForIncome = () => {
     const stateIncomeData = state_data_income[state];
@@ -534,12 +532,26 @@ export const Map = () => {
           {
             label: state,
             data: incomeState,
-            borderColor: "rgb(75, 192, 192",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           },
           ...stateIncomeData.map(({ state, data }, index) => ({
             label: state,
             data: data,
-            borderColor: lineColors[index],
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2024) {
+                return 'purple';
+              } else {
+                return lineColors[index];
+              }
+            }
           })),
         ]
       }
@@ -551,7 +563,14 @@ export const Map = () => {
           {
             label: state,
             data: incomeState,
-            borderColor: "rgb(75, 192, 192)",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           }
         ]
       }
@@ -584,7 +603,14 @@ export const Map = () => {
           {
             label: state,
             data: unemploymentState,
-            borderColor: "rgb(75, 192, 192",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           },
           ...stateUnemploymentData.map(({ state, data }, index) => ({
             label: state,
@@ -601,7 +627,14 @@ export const Map = () => {
           {
             label: state,
             data: unemploymentState,
-            borderColor: "rgb(75, 192, 192)",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           }
         ]
       }
@@ -635,7 +668,14 @@ export const Map = () => {
           {
             label: state,
             data: degreesState,
-            borderColor: "rgb(75, 192, 192",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           },
           ...stateDegreesData.map(({ state, data }, index) => ({
             label: state,
@@ -652,7 +692,14 @@ export const Map = () => {
           {
             label: state,
             data: degreesState,
-            borderColor: "rgb(75, 192, 192)",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           }
         ]
       }
@@ -687,7 +734,14 @@ export const Map = () => {
           {
             label: state,
             data: homeState,
-            borderColor: "rgb(75, 192, 192",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           },
           ...stateHomeData.map(({ state, data }, index) => ({
             label: state,
@@ -704,7 +758,14 @@ export const Map = () => {
           {
             label: state,
             data: homeState,
-            borderColor: "rgb(75, 192, 192)",
+            borderColor: (context) => {
+              const dataIndex = context.dataIndex;
+              if (years[dataIndex] >= 2023) {
+                return "purple";
+              } else {
+                return "rgb(75, 192, 192";
+              }
+            }
           }
         ]
       }
@@ -714,9 +775,9 @@ export const Map = () => {
 
   const onEachFeature = (feature, layer) => {
     if (feature?.properties?.NAME) {
-      const index = qol[feature.properties.NAME]?.QoL
+      const index = Math.round((qol[feature.properties.NAME]?.QoL) * 100) / 100
       layer.setStyle({color: getColorForValue(index)});
-      layer.bindTooltip(feature.properties.NAME);
+      layer.bindTooltip(`${feature.properties.NAME} QoL Index: ${index}`);
       layer.on('click', () => {
         setState(feature.properties.NAME);
       })
@@ -738,9 +799,9 @@ export const Map = () => {
     const rgbColor = hslToRgb(hue / 360, 1, 0.5);
 
     return `rgb(${rgbColor[0]}, ${rgbColor[1]}, ${rgbColor[2]})`;
-    }
+  }
     
-    function hslToRgb(h, s, l) {
+  const hslToRgb = (h, s, l) => {
     let r, g, b;
     
     if (s === 0) {
@@ -762,13 +823,13 @@ export const Map = () => {
     }
     
     return [Math.round(r * 255), Math.round(g * 255), Math.round(b * 255)];
-    }
+  }
 
   return (
     <div>
       <MapContainer
         center={position}
-        zoom={5}
+        zoom={4}
         scrollWheelZoom={true}
         style={styles.map}
       >
@@ -800,7 +861,7 @@ export const Map = () => {
                   <Col>
                     <Dropdown>
                       <Dropdown.Toggle variant="dark">Compare To</Dropdown.Toggle>
-                      <Dropdown.Menu>
+                      <Dropdown.Menu style={{overflow: 'auto', maxHeight: '50vh'}}>
                         {states &&
                           states.map((compare) => (
                             <Dropdown.Item
