@@ -13,6 +13,7 @@ def load_data():
     # df4 = poverty_rate()
     # df5 = unemployment_rate()
     # df6 = home_value()
+    # df7 = qol()
 
     load_dotenv()
 
@@ -26,11 +27,12 @@ def load_data():
     engine = create_engine(db_url)
 
     # df1.to_sql('bachelors_degree', engine, index=False)
-    # df2.to_sql('median_income', engine, index=False)
+    # df2.to_sql('median_income', engine, index=False, if_exists='replace')
     # df3.to_sql('crime_rate', engine, index=False)
     # df4.to_sql('poverty_rate', engine, index=False)
-    # df5.to_sql('unemployment_rate', engine, index=False)
+    # df5.to_sql('unemployment_rate', engine, index=False, if_exists='replace')
     # df6.to_sql('home_value', engine, index=False)
+    # df7.to_sql('qol', engine, index=False)
 
     print(inspect(engine).get_table_names())
 
@@ -53,6 +55,10 @@ def bachelors_degree():
 def median_income():
     df1 = pd.read_csv("../data/median_household_income.csv")
     df2 = pd.read_csv("../predicted_data/median_income_predictions_2022_2023_2024.csv")
+
+    df1 = df1.replace(',', '', regex=True)
+    cols = df1.columns[1:]
+    df1[cols] = df1[cols].astype(float)
 
     df2 = df2.rename(columns={'Predicted 2022 Median Income': 'Predicted 2022',
                               'Predicted 2023 Median Income': 'Predicted 2023',
@@ -102,6 +108,7 @@ def poverty_rate():
 
 def unemployment_rate():
     df1 = pd.read_csv("../data/Unemployment in America Per US State.csv")
+    df2 = pd.read_csv("../predicted_data/Predicted_Unemployment_Rate_2022_2024_by_State.csv")
 
     df1.drop(df1.iloc[:, 0:1], axis=1, inplace=True)
     df1.drop(df1.iloc[:, 3:9], axis=1, inplace=True)
@@ -116,8 +123,17 @@ def unemployment_rate():
     df1 = df1.drop([18, 34])
     df1 = df1.reset_index()
     df1.pop('index')
+    df1 = df1.rename(columns={'State/Area': 'State'})
+    df2 = df2.pivot_table(index='State', columns='Year', values='Predicted Unemployment Rate (%)')
+    df2 = df2.rename(columns={2022: 'Predicted 2022',
+                              2023: 'Predicted 2023',
+                              2024: 'Predicted 2024'})
+    df2 = df2.reset_index()
+    df2.columns.name = ''
 
-    return df1
+    unemployment_rate_df = df1.join(df2.set_index('State'), on='State')
+
+    return unemployment_rate_df
 
 
 def home_value():
@@ -134,5 +150,11 @@ def home_value():
     return states.join(df)
 
 
+def qol():
+    df = pd.read_csv("../predicted_data/state_qol.csv")
+
+    return df
+
+
 if __name__ == '__main__':
-    load_data()
+    poverty_rate()
